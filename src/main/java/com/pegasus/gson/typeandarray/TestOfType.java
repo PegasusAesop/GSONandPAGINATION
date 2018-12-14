@@ -4,6 +4,10 @@ import com.google.gson.Gson;
 
 public class TestOfType {
 
+	/**
+	 * 单一类或数组的json转化
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		
 		Gson gson = new Gson();
